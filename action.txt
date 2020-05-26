@@ -1,0 +1,3 @@
+chicken: walk
+dog: run
+cat: dance
